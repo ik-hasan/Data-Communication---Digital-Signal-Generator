@@ -167,7 +167,3 @@ Terminal waveform is drawn with `+1`, `0`, `-1` levels and transitions marked.
 ```
 
 ---
-
-## License
-
-This project is for educational purposes. Free to use and modify.
